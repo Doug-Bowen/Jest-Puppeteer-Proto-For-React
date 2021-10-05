@@ -1,4 +1,11 @@
-Prototype for utilizing Jest (unit testing framework) and Puppeteer (Browser Control) for automation React Front-ends.  Uses Page Object Model design.
+
+Overview:
+* Prototype
+* Jest (unit testing framework) 
+* Puppeteer (Browser Control) 
+* React Front-ends
+* Page Object Model design
+* TypeScript
 
 You'll need to run:
 
