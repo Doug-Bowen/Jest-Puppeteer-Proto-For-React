@@ -1,3 +1,5 @@
+Prototype for utilizing Jest (unit testing framework) and Puppeteer (Browser Control) for automation React Front-ends.  Uses Page Object Model design.
+
 You'll need to run:
 
 * npm install jest
